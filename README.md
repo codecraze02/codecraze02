@@ -38,7 +38,7 @@
 ---
 
 ## 🌐 Kontakt & Social
-|
+
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/mXpWpQBsQ5)
 
 
