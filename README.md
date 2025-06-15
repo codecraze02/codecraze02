@@ -41,9 +41,7 @@
 
 | Platforma  | Link                              |
 |------------|-----------------------------------|
-| 📧 Email   | [codecraze@complexhub.pl]          |
-| 💼 LinkedIn | [https://www.linkedin.com/in/twoj-profil/] |
-| 🌐 Portfolio | [https://portfolio.complexhub.pll/]     |
+|  Discord   | [https://discord.gg/mXpWpQBsQ5/]          |
 
 ---
 
